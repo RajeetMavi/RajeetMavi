@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, C, Java
 - **Tools & Platforms:** GitHub, Windows 11, ASUS TUF (RTX 3080)
-- **Interests:** Image Enhancement, AI, Dark Themes, and Space Exploration
+- **Interests:** Image Enhancement, AI, and Space Exploration
 
 ### 📫 Connect with Me
 - 💬 Feel free to ask me anything about programming and science!
