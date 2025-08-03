@@ -16,7 +16,7 @@
 
 ### 📫 Connect with Me
 - 💬 Feel free to ask me anything about programming and science!
-- 📩 Email: 91.rajeetmavi@gmail.com
+- 📩 Email: rajeetmavi@gmail.com
 - 🌐 GitHub: https://github.com/RajeetMavi
 
 ---
