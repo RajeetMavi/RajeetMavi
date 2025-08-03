@@ -10,7 +10,7 @@
 - 🌱 Learning **Pandas, Matplotlib, and Tkinter**
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C++, C
+- **Languages:** Python, C++, C, Java
 - **Tools & Platforms:** GitHub, Windows 11, ASUS TUF (RTX 3080)
 - **Interests:** Image Enhancement, AI, Dark Themes, and Space Exploration
 
