@@ -1,7 +1,7 @@
 # Hi there, I'm Rajeet 👋
 
 ### 🚀 About Me
-- 🎓 B.Tech CSE student | 2nd Year
+- 🎓 B.Tech CSE student | 3nd Year
 - 🔭 Currently learning **Data Structures, Algorithms, and GitHub**
 - 🤖 Interested in **AI, Machine Learning, and Image Processing**
 - 🎬 Love **Sci-Fi movies and series**
