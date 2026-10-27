@@ -7,7 +7,7 @@
 - 🎬 Love **Sci-Fi movies and series**
 - 💻 Passionate about **coding and technology**
 - 🌌 Fascinated by **Science, Space, and the Universe**
-- 🌱 Learning **Pandas, Matplotlib, and Tkinter**
+- 🌱 Learning **Deep Learning **
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, C, Java
